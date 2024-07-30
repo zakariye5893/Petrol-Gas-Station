@@ -1,0 +1,59 @@
+.section-title h2{
+
+    text-align: center ;
+    color: rgb(0, 6, 6);
+
+}
+.Emp{
+    text-align: center;
+    /* padding-bottom: 90px;  
+    padding-left: 89px; */
+
+    width: 200px;
+    height: 150px;
+    /* border-radius: 20px; */
+    border-radius: 30px;
+    background-color: rgba(8, 8, 84, 0.997);
+    color: white;
+    text-align: center;
+    padding-left: 25px;
+    /* font-size: xx-small; */
+    /* font-family: 'Times New Roman', Times, serif;    */
+   
+    /* padding: 50px; */
+    
+
+ 
+}
+.emp-text{
+
+    color: white;
+    font-size: large;
+    padding-left: 35px;
+   
+}
+.cust-text{
+    color: white;
+    font-size: large;
+    padding-left: 35px;
+    
+}
+.image-button {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #124354;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+    height: 150px;
+    font-size: large;
+  }
+  .image-button img {
+    height: 20px;
+    margin-right: 10px;
+  }
+ 
