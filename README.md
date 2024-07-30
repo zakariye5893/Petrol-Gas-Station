@@ -66,3 +66,13 @@ We welcome contributions to the Gudoon Station car rental React app. If you'd li
 3. Make your changes and commit them.
 4. Push your changes to your forked repository.
 5. Submit a pull request to the main repository.
+
+Asc Ustaad 
+Arday dhigta Jamacadda Jamhuriya University waye Ustaad 
+Laptop 💻 iga haley san ku dhahaaye waaye Ustaad 
+Waana ku so wacay Waad ila hada shay Ustaad 
+Remind file Farin igu so qor baa I dhahday Ustaad Baabala 
+
+* NAME :::: Zakariye Ali Omar 
+* CLASS ::: CA212
+* ID ::::: C1210147
